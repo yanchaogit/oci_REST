@@ -5,11 +5,11 @@ Suppose you are familar with Sha256 Hash, and signature of http request with pri
 
 For more information, reference the following:
 
-+Oracle A Team blog
++ Oracle A Team blog
 https://www.ateam-oracle.com/post/oracle-cloud-infrastructure-oci-rest-call-walkthrough-with-curl
 
-+Signing HTTP Messages specifications
++ Signing HTTP Messages specifications
 https://datatracker.ietf.org/doc/html/draft-cavage-http-signatures-08
 
-+Oracle REST API Documentation on Request Signatures
++ Oracle REST API Documentation on Request Signatures
 https://docs.oracle.com/en-us/iaas/Content/API/Concepts/signingrequests.htm
