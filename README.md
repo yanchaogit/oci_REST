@@ -13,3 +13,8 @@ https://datatracker.ietf.org/doc/html/draft-cavage-http-signatures-08
 
 + Oracle REST API Documentation on Request Signatures
 https://docs.oracle.com/en-us/iaas/Content/API/Concepts/signingrequests.htm
+
+## Files
+- getBucketList.py List all the buckets in the specified CompartmentID and Region.
+- createBucket.py Create a bucket in the specified CompartmentID and Region.
+- createBucketPayload The JSON payload for the createBucket.py
