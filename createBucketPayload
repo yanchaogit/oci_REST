@@ -1,0 +1,7 @@
+{
+  "compartmentId": "<YOUR COMPARTMENTID>",
+  "namespace": "<YOUR OSS NAMESPACE>",
+  "objectEventsEnabled": true,
+  "name": "my-test-1",
+  "freeformTags": {"Department": "Finance"}
+}
